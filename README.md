@@ -7,7 +7,7 @@ A Clojure library for analyzing the serialization statistics when serializing Cl
 Add the following to your dependency vector in your project.clj:
 
 ```clojure
-[frost-analysis "0.1.0"]
+[frost-analysis "0.1.1"]
 ```
 
 Latest on [clojars.org](http://clojars.org):

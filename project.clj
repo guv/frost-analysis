@@ -1,4 +1,4 @@
-(defproject frost-analysis "0.1.0"
+(defproject frost-analysis "0.1.1"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
@@ -6,4 +6,4 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [com.esotericsoftware.kryo/kryo "2.17"]
                  ; gui for analysis namespace
-                 [clj-gui "0.3.4"]])
+                 [clj-gui "0.3.5"]])
